@@ -15,6 +15,22 @@ Built using **Python (Pyrogram)** for Hackathon deployment 🚀.
 - 🎯 **Goal Tracker** → Save money towards personal goals  
 - ⚡ Works on **Telegram** & can be deployed on **Render/Heroku**
 
+
+
+##📱 Bot Commands
+
+/start → Welcome message
+
+/savings income expenses → Calculate monthly savings
+
+/tax salary investments → Estimate tax
+
+/invest risk_level → Get investment suggestions
+
+/addgoal amount description deadline → Add financial goal
+
+/goals → Track goals
+
 ---
 ## ✨ output
 
