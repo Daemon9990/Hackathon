@@ -11,6 +11,23 @@ Built using **Python (Pyrogram)** for Hackathon deployment 🚀.
 - 🎯 **Goal Tracker** → Save money towards personal goals  
 - ⚡ Works on **Telegram** & can be deployed on **Render/Heroku**
 
----
+---#output
+[1] Savings Calculation:
+✅ Your monthly savings: ₹13000
 
-## 📂 Project Structure
+[2] Tax Estimation:
+💸 Estimated Income Tax: ₹27500
+
+[3] Investment Suggestion (Balanced):
+🟡 Suggested Balanced investments:
+- Index Funds
+- Mutual Funds
+- REITs
+
+[4] Setting Goal:
+🎯 Goal added: Save ₹150000 for Buy Bike by 2026-05-30
+
+[5] Goal Tracking:
+📊 Your Goals:
+1. ₹150000 for Buy Bike (by 2026-05-30)
+
