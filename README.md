@@ -1,7 +1,7 @@
 
 # 💰 Personal Finance Chatbot
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-An+inelligent;+Telegram+chatbot)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-An+inelligent;+Telegram+chatbot+that+helps+users +with;+Savings+Taxes+Investments+and+Financial Goals)
 
 
 
