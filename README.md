@@ -1,3 +1,10 @@
+
+/h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
+</p>
+
+
 # 💰 Personal Finance Chatbot
 An intelligent Telegram chatbot that helps users with **Savings, Taxes, Investments, and Financial Goals**.  
 Built using **Python (Pyrogram)** for Hackathon deployment 🚀.
@@ -11,7 +18,10 @@ Built using **Python (Pyrogram)** for Hackathon deployment 🚀.
 - 🎯 **Goal Tracker** → Save money towards personal goals  
 - ⚡ Works on **Telegram** & can be deployed on **Render/Heroku**
 
----#output
+---
+## ✨ output
+
+
 [1] Savings Calculation:
 ✅ Your monthly savings: ₹13000
 
