@@ -3,10 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-An+inelligent;+Telegram+Chatbot)
 
-
-
-# 💰 Personal Finance Chatbot
-An intelligent Telegram chatbot that helps users with **Savings, Taxes, Investments, and Financial Goals**.  
+ **Savings, Taxes, Investments, and Financial Goals**.  
 Built using **Python (Pyrogram)** for Hackathon deployment 🚀.
 
 ---
