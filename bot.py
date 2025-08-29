@@ -4,9 +4,9 @@ from pyrogram import Client, filters
 from finance_core import calculate_savings, calculate_tax, suggest_investment, add_goal, track_goals
 
 # Telegram bot setup
-API_ID = int(os.getenv("API_ID", "12345"))
-API_HASH = os.getenv("API_HASH", "your_api_hash")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "your_bot_token")
+API_ID = int(os.getenv("API_ID", "24830912"))
+API_HASH = os.getenv("API_HASH", "a1a1775593531b90850b8b82e3b14940")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8438748276:AAF_499AMQV-xXWC4ea36x_skxsjFkktpU8")
 
 app = Client("finance_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
