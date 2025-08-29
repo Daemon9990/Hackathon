@@ -1,7 +1,7 @@
 
 # 💰 Personal Finance Chatbot
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-An intelligent Telegram chatbot)
 
 
 
